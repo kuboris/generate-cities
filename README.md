@@ -1,5 +1,7 @@
 # Generujte si vlastnú obec
 
+http://40.68.170.249/
+
 Použitie najnovších konceptov v neurónových sieťach rieši pálčivú otázku generovania nových tradičných českých obcí.
 
 ##Použité otvorené dáta:
@@ -20,3 +22,4 @@ https://github.com/carpedm20/BEGAN-tensorflow
 
 Vizualizácia Obcí.
 https://github.com/shariq/burgundy
+
